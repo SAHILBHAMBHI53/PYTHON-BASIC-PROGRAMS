@@ -1,6 +1,5 @@
 # PYTHON-BASIC-PROGRAMS
-Basic Python programs without loops and functions.
-# Python Basic Programs
+Basic Python programs without loops and functions
 
 ## Programs
 1. Addition of Two Numbers
